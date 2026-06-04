@@ -8,8 +8,7 @@
 Parameter Value Theoretical Frequency of Oscillation 1 kHz Practical Frequency of Oscillation 0.98 kHz
 ## GRAPHS
 
-
-<img width="1280" height="322" alt="image" src="https://github.com/user-attachments/assets/7dc4c908-6323-4bc9-8a05-d0af6647c978" 
+<img width="1280" height="322" alt="image" src="https://github.com/user-attachments/assets/c78abb1f-ca11-4504-8a23-f835ecc3be82" />
 
 Result:
 Thus the analysis of a malfunctioning rectifer was done and the faults were identified.The circuit was troubleshooted to restore proper operation.
