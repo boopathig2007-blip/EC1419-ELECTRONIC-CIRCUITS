@@ -27,15 +27,20 @@
 
 
 ## Graph
-##input
+INPUT
 <img width="1911" height="494" alt="image" src="https://github.com/user-attachments/assets/d18b65d5-8233-47b4-9629-0fb3bc08c894" />
 
-##output
+OUTPUT
 <img width="1280" height="329" alt="image" src="https://github.com/user-attachments/assets/0d4d6a5c-e9da-4739-bf27-15880f6e124f" />
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+**VOLTAGE GAIN = −247 (≈47.8 dB)
+**BANDWIDTH = 1.2 MHz
+<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/55fba5f3-8ad1-467c-a843-eb9dccb89327" />
+
 
 **VOLTAGE GAIN =100**
+
 
 **BANDWIDTH =200KHz**
